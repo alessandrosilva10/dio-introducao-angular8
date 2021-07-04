@@ -5,7 +5,8 @@ import { Error404Component } from "./component/error-404/error-404.component";
 
 @NgModule({
   declarations: [
-    NavbarComponent
+    NavbarComponent,
+    Error404Component
   ],
   imports: [
     RouterModule.forChild([
